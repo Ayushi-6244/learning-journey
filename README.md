@@ -54,7 +54,7 @@ To become a confident, data-driven Business Analyst equipped with the technical 
 📅 Start Date: July 14, 2025  
 🎯 Target Completion: November 1, 2025  
 🔁 Updated Weekly | ✅ Tasks tracked by topic  
-🌐 Portfolio Link: *(add personal site or LinkedIn here)*
+🌐 Portfolio Link: *(linkedin.com/in/ayushi-sisodia-b453651a1)*
 
 ---
 
