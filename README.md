@@ -62,6 +62,6 @@ To become a confident, data-driven Business Analyst equipped with the technical 
 If you're a hiring manager, recruiter, or fellow learner — feel free to reach out!
 
 📫 [ayushisisodia2@gmail.com]  
-🔗 [linkedin.com/in/ayushi-sisodia-b453651a1]  
+🔗 linkedin.com/in/ayushi-sisodia-b453651a1
 
 
