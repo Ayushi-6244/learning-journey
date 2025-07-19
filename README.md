@@ -1,4 +1,10 @@
 # learning-journey
+Hi! I’m Aayushi — an aspiring Business Analyst currently pursuing my MBA in Business Analytics at Saint Peter's University (Class of 2026).
+
+This GitHub is my live learning portfolio where I’m building strong foundations in Python, SQL, Excel, and Tableau. I’m passionate about transforming raw data into actionable insights and solving real-world problems using analytical thinking.
+
+Let’s connect and collaborate!
+
 My Business Analyst learning notebooks (Python, SQL, Excel, Tableau)
 # 📊 Business Analyst Learning Portfolio by Aayushi
 
